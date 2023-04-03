@@ -36,5 +36,5 @@
 6. 同時設置一個Bastion Host 用於 SSH 連接到 Backend Service 。
 </br>
 
-7. 在 Public Subnet 中設置 Beanstalk，包括Load Balancer 
+7. 在 Public Subnet中設置 Beanstalk，包含 ASG 與 ELB 垂直和水平擴展 。 
 </br>
