@@ -12,15 +12,15 @@ variable "AMIS" {
 }
 
 variable "SSH_KEY" {
-  default = "rickc"
+  default = "test"
 }
 
 variable "PUB_KEY_PATH" {
-  default = "rickkey.pub"
+  default = "test.pub"
 }
 
 variable "PRIV_KEY_PATH" {
-  default = "rickkey"
+  default = "test"
 }
 
 variable "USERNAME" {
